@@ -1,0 +1,1 @@
+https://kartta.hel.fi/ws/geoserver/avoindata/wfs?version=1.0.0&request=GetFeature&typeName=avoindata:Kaupunginosajako&outputformat=SHAPE-ZIP
